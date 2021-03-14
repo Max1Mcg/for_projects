@@ -1,2 +1,2 @@
 my name = MAXIM
-I AM IN THE MASTER BRANCH!!!
+new_branch
